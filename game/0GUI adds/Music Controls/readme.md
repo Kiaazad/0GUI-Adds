@@ -9,11 +9,11 @@ Give your players the ability to control the games music.
 
 ## How to use
 copy the `Music Controls.rpy` file anywhere inside your game folder and create a button on your interface like:
-``
+``` python
 button:
     text "Music Controls"
     action Show("music_controls")
-``
+```
 
 
 Here's a video: https://youtu.be/7giuCvvOwqg
