@@ -1,4 +1,4 @@
-Give the player ability to control the games music.
+Give your players the ability to control the games music.
 
 - Show the name of playing pice.
 - Show thetime stamps
