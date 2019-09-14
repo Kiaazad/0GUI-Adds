@@ -12,7 +12,7 @@ copy the `Music Controls.rpy` file anywhere inside your game folder and create a
 ``` python
 button:
     text "Music Controls"
-    action Show("music_controls")
+    action ToggleScreen("music_controls")
 ```
 
 
